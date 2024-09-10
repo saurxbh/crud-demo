@@ -36,10 +36,17 @@ Follow these steps to set up and run the application locally:
 
 ## Execution
 
-![image](./images/AddUser.png)
-![image](https://github.com/saurxbh/crud-demo/images/AllUsers.png)
-![image](https://github.com/saurxbh/crud-demo/images/edit1.png)
-![image](https://github.com/saurxbh/crud-demo/images/edit2.png)
-![image](https://github.com/saurxbh/crud-demo/images/UserDetails.png)
+- Home Page which displays all users
+  ![image](/images/AllUsers.png)
+
+- Adding a User
+![image](/images/AddUser.png)
+
+- Editing User Details
+![image](/images/edit1.png)
+![image](/images/edit2.png)
+
+- Viewing User Details
+![image](/images/UserDetails.png)
 
 
