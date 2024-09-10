@@ -37,16 +37,21 @@ Follow these steps to set up and run the application locally:
 ## Execution
 
 - Home Page which displays all users
+
   ![image](/images/AllUsers.png)
 
 - Adding a User
-![image](/images/AddUser.png)
+
+  ![image](/images/AddUser.png)
 
 - Editing User Details
-![image](/images/edit1.png)
-![image](/images/edit2.png)
+
+  ![image](/images/edit1.png)
+
+  ![image](/images/edit2.png)
 
 - Viewing User Details
-![image](/images/UserDetails.png)
+
+  ![image](/images/UserDetails.png)
 
 
