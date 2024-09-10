@@ -36,9 +36,9 @@ Follow these steps to set up and run the application locally:
 
 ## Execution
 
-![Add A User](https://github.com/saurxbh/crud-demo/images/AddUser.png)
-![All Users](https://github.com/saurxbh/crud-demo/images/AllUsers.png)
-![Editing User Details](https://github.com/saurxbh/crud-demo/images/edit1.png)
-![Editing User Details](https://github.com/saurxbh/crud-demo/images/edit2.png)
-![User Details](https://github.com/saurxbh/crud-demo/images/UserDetails.png)
+![image](https://github.com/saurxbh/crud-demo/images/AddUser.png)
+![image](https://github.com/saurxbh/crud-demo/images/AllUsers.png)
+![image](https://github.com/saurxbh/crud-demo/images/edit1.png)
+![image](https://github.com/saurxbh/crud-demo/images/edit2.png)
+![image](https://github.com/saurxbh/crud-demo/images/UserDetails.png)
 
