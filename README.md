@@ -1,6 +1,6 @@
 # crud-demo
 
-Built a Full Stack Web Application that provides CRUD functionalities. Used Spring Boot for the backend and React for the frontend. Decent learning experience, def getting a hang of this.
+Built a Full Stack Web Application that provides CRUD functionalities. Used Spring Boot for the backend and React for the frontend.
 
 ## Features
 
@@ -23,7 +23,7 @@ Before you begin, ensure you have met the following requirements:
 
 - Java Development Kit (JDK) installed.
 - Node.js and npm installed.
-- Used VS Code for React frontend, IntelliJ for Spring Boot backend
+- I used VS Code for React frontend, IntelliJ for Spring Boot backend, but you can use the IDEs of your choice.
 
 ## Getting Started
 
@@ -33,6 +33,18 @@ Follow these steps to set up and run the application locally:
 
    ```bash
    git clone https://github.com/saurxbh/crud-demo.git
+
+2. Spin up the the Spring Boot server after installing backend dependencies.
+
+   ```bash
+    mvn install  
+    mvn spring-boot:run
+
+3. Navigate to the frontend directory, install frontend dependencies and run the React app locally.
+
+   ```bash
+   npm install
+   npm start
 
 ## Execution
 
